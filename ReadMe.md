@@ -1,3 +1,3 @@
-clase 6 y 7 se da docker
+LINK A DOCKER:
 
 https://hub.docker.com/u/thomastudy
